@@ -1,2 +1,2 @@
-echo "Hello, Jenkins User"
+ping -c 5 www.google.com 
 Pause
